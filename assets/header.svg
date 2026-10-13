@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="156" viewBox="0 0 960 156" role="img" aria-labelledby="title desc">
+  <title id="title">Data &amp; AI · Backend · DevOps</title>
+  <desc id="desc">A dark blue banner with teal and blue flowing lines and subtle animated dots.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#153c4a"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+  </defs>
+  <rect width="960" height="156" rx="18" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" opacity=".28">
+    <path d="M0 120 Q160 40 320 120 T640 120 T960 120"/>
+    <path d="M0 132 Q160 52 320 132 T640 132 T960 132"/>
+    <path d="M0 144 Q160 64 320 144 T640 144 T960 144"/>
+    <path d="M720 0v156M760 0v156M800 0v156M840 0v156M880 0v156M920 0v156" opacity=".3"/>
+  </g>
+  <text x="480" y="63" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#f8fafc">Data &amp; AI · Backend · DevOps</text>
+  <text x="480" y="95" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3" fill="#99e5e3">LEARN · BUILD · COLLABORATE</text>
+  <circle cx="62" cy="38" r="4" fill="#38bdf8"><animate attributeName="opacity" values=".35;1;.35" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="898" cy="117" r="5" fill="#5eead4"><animate attributeName="opacity" values="1;.35;1" dur="5s" repeatCount="indefinite"/></circle>
+</svg>
