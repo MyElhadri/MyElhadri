@@ -1,104 +1,120 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Data & AI · Backend · DevOps — animated blue and teal banner" />
+<img src="./assets/header.svg" width="100%" alt="Mohamed Yassine EL HADRI — Computer Science Engineering, ENSA Tangier" />
 
-# Mohamed Yassine EL HADRI
+<br />
 
-**Final-year Computer Science Engineering student · ENSA Tangier**  
-Data & Artificial Intelligence specialization · Expected graduation: **2027**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yassine-elhadri/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyassineelhadri01@gmail.com)&nbsp;
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MyElhadri?tab=repositories)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohamed-yassine-elhadri/)
-[![Email](https://img.shields.io/badge/Email-Let%27s_talk-0F766E?style=for-the-badge)](mailto:mohamedyassineelhadri01@gmail.com)
-[![Repositories](https://img.shields.io/badge/GitHub-Explore_projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MyElhadri?tab=repositories)
+<br /><br />
 
-**Seeking a six-month final-year internship (PFE) from February 2027**  
-Data / AI · Backend / Full-Stack · DevOps / Cloud  
-Based in Tangier, Morocco · Open to opportunities in **Morocco and France**
+**🎯 Actively seeking a 6-month Final-Year Internship (PFE) starting February 2027**  
+*Data & AI Engineering · Backend Software Engineering · DevOps & Cloud Architecture*  
+📍 Based in Tangier, Morocco · Mobile & open to opportunities in **Morocco and France**
 
 </div>
 
-## About me
+---
 
-I work on academic projects that connect **data and AI with software development and DevOps**: training image classifiers, building backend APIs, and containerizing applications.
+### `$ whoami`
 
-During my PFA internship at the **Histology Laboratory of the Faculty of Medicine and Pharmacy of Tangier**, I worked with a teammate on HistoClassAI, combining image classification with web and mobile learning tools. At **Yazaki Tangier**, I contributed to migrating a Power Apps business application to a React.js and Express.js web solution.
+Final-year **Computer Science Engineering student** at **ENSA Tangier**, specializing in **Data & Artificial Intelligence**.
 
-For my PFE, I want to contribute to real engineering projects, learn from experienced engineers, and deepen my skills in one of these areas.
+I enjoy engineering complete solutions across the entire delivery pipeline:
+- Formulating problems with rigorous data pipelines and **Deep Learning / Computer Vision** models.
+- Architecting robust, typed **Backend APIs** (FastAPI, .NET, Java EE, Express).
+- Packaging and automating delivery through **Docker Compose microservices and CI/CD pipelines**.
 
-## Featured projects
+---
 
-### 🔬 [HistoClassAI — AI-powered histology learning platform](https://github.com/MyElhadri/histology-App)
+### 🚀 Featured Engineering Projects
 
-`TensorFlow / Keras` `ASP.NET Core 8` `FastAPI` `Vue.js` `Flutter` `Docker Compose`
-
-A **two-person PFA project**, developed during July–August 2026, connecting a **nine-category image classifier** with a teacher web portal and a student mobile application.
-
-- **My contribution:** CNN experimentation and DenseNet fine-tuning, application development, and integration of PostgreSQL, MinIO and a six-service Docker Compose environment.
-- **Reported project result:** 93% accuracy and 0.93 macro F1 for the nine-category model. These experimental results do not establish clinical performance.
-- **Explore:** [application architecture and setup](https://github.com/MyElhadri/histology-App#%EF%B8%8F-architecture-du-projet) · [container configuration](https://github.com/MyElhadri/histology-App/blob/main/docker-compose.yml).
-
-### 🪙 [Moroccan Coins Detection — computer vision and value calculation](https://github.com/MyElhadri/moroccan-coins-detection)
-
-`Python` `YOLOv8` `Roboflow` `Google Colab` `Streamlit`
-
-An academic project developed with **Mosab BENABDELLAH**, supervised by **Pr. Abdelmonaime Lachkar** at ENSA Tangier, to detect Moroccan coins in images and calculate their total value.
-
-- **My contribution:** image collection, Roboflow annotation, model training and evaluation, and development of the Streamlit demonstration interface, with my teammate.
-- **Explore:** [training notebook](https://github.com/MyElhadri/moroccan-coins-detection/blob/main/notebooks/train_yolo_colab.ipynb) · [detection pipeline](https://github.com/MyElhadri/moroccan-coins-detection/blob/main/app/detector.py).
-- The application also includes a **simulation mode**; simulated predictions are demonstration data, not model evaluation results.
-
-### 🔧 [BricoliRent — tool-rental web application](https://github.com/MyElhadri/BricoliRent)
-
-`Java 17` `Jakarta EE` `JSF / Facelets` `Hibernate` `PostgreSQL` `Maven`
-
-A layered academic web application developed **with a teammate**, covering rental reservations, payments and penalties.
-
-- **My contribution:** translating business requirements into application rules, frontend/backend development, and feature integration with my teammate.
-- **Explore:** [source code](https://github.com/MyElhadri/BricoliRent/tree/main/src/main) · [build configuration](https://github.com/MyElhadri/BricoliRent/blob/main/pom.xml).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔬 <a href="https://github.com/MyElhadri/histology-ai-classification">HistoClassAI — Histopathology Classifier</a></h4>
+      <p><code>DenseNet121</code> <code>TensorFlow</code> <code>FastAPI</code> <code>Docker Compose</code> <code>Flutter</code></p>
+      <p>Deep Learning framework classifying human histological tissue biopsies, developed in collaboration with the <b>Histology Laboratory (Faculty of Medicine & Pharmacy of Tangier)</b>.</p>
+      <ul>
+        <li><b>Algorithm & Results:</b> Transfer learning with DenseNet121, stratified 5-fold cross validation, <b>93% accuracy and 0.93 macro F1</b> across classes.</li>
+        <li><b>Microservices Stack:</b> FastAPI inference engine backed by PostgreSQL, MinIO object storage, and a 6-service Docker Compose deployment.</li>
+      </ul>
+      <sub>Dépôts : <a href="https://github.com/MyElhadri/histology-ai-classification">Framework & Recherche IA</a> · <a href="https://github.com/MyElhadri/histology-App">Application Web/Mobile</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🪙 <a href="https://github.com/MyElhadri/moroccan-coins-detection">Moroccan Coins Detection & Counter</a></h4>
+      <p><code>YOLOv8</code> <code>OpenCV</code> <code>Roboflow</code> <code>Streamlit</code> <code>Google Colab</code></p>
+      <p>Computer vision system for detecting Moroccan metallic coins (1 DH, 2 DH, 5 DH, 10 DH) and computing cumulative currency amounts in real time.</p>
+      <ul>
+        <li><b>Precision Benchmark:</b> Trained on custom annotated Roboflow dataset achieving <b>98.6% mAP@50</b> on validation data.</li>
+        <li><b>Interactive UI:</b> Drag-and-drop Streamlit interface with side-by-side bounding box inspection, simulation mode, and automated audit export.</li>
+      </ul>
+      <sub>Encadré par le Pr. Abdelmonaime Lachkar · ENSA Tanger</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👥 <a href="https://github.com/MyElhadri/HR-requests-tracker">HR Request Tracker — Odoo 17 & 18 Module</a></h4>
+      <p><code>Odoo 17/18</code> <code>Python</code> <code>PostgreSQL 15</code> <code>Docker Compose</code></p>
+      <p>Production-compliant enterprise Human Resources request management module centralizing internal service tickets across teams.</p>
+      <ul>
+        <li><b>Business Logic:</b> Automated stage transitions (Draft → Submitted → In Progress → Done), Kanban views, and synchronized Chatter mail mixins.</li>
+        <li><b>Security & Setup:</b> Granular role-based ACLs (Employee self-service vs HR Manager) with a ready-to-run <code>docker-compose.yml</code> setup.</li>
+      </ul>
+      <sub>Module ERP d'entreprise conteneurisé</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔧 <a href="https://github.com/MyElhadri/BricoliRent">BricoliRent — Equipment Rental Platform</a></h4>
+      <p><code>Java 17</code> <code>Jakarta EE 10</code> <code>Hibernate 6</code> <code>WildFly 30</code> <code>JSF</code></p>
+      <p>Layered enterprise tool and machinery rental platform with complete transactional rules and audit traceability.</p>
+      <ul>
+        <li><b>Business Engine:</b> Client reliability credit scoring, multi-role access (Client, Agent, Admin), check-out/in inspections, and overdue penalties.</li>
+        <li><b>Architecture:</b> MVC in layers (JPA entities, repository session handlers, service layer, CDI managed beans, Facelets templates).</li>
+      </ul>
+      <sub>Projet académique Jakarta EE · ENSA Tanger</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>More public code</b></summary>
+<summary><b>Autres projets académiques & infrastructure</b></summary>
+<br />
 
-- [**HR Request Tracker**](https://github.com/MyElhadri/HR-requests-tracker): an Odoo module with request-state transitions, Kanban views, access rules and Chatter integration. The checked container configuration uses **Odoo 17 and PostgreSQL 15**. [Workflow model](https://github.com/MyElhadri/HR-requests-tracker/blob/main/addons/hr_request_tracker/models/hr_request.py).
-- [**Histology AI Classification**](https://github.com/MyElhadri/histology-ai-classification): a separate repository containing histology classification experiments, TensorFlow training code and dataset preparation. Its 22-category experiment is distinct from the nine-category HistoClassAI application above.
-- [**DevOps workshop**](https://github.com/MyElhadri/atelier_devops): introductory CI/CD practice with a [GitHub Actions workflow](https://github.com/MyElhadri/atelier_devops/blob/main/.github/workflows/ci.yml).
+- **Wasil (Plateforme logistique · équipe de 6)** : Infrastructure DevOps, Docker Compose, Nginx reverse proxy, déploiement VPS DigitalOcean, CI/CD GitHub Actions, et intégration SSO Keycloak / backend .NET.
+- **StreamLine (Télémesure & Observabilité · équipe de 4)** : Automatisation d'un cluster 5-VM avec Vagrant, conteneurs Docker, métriques Prometheus et dashboards Grafana.
+- **Pipeline Business Intelligence (2 personnes)** : ETL Pentaho PDI, Data Warehouse relationnel, requêtes analytiques SQL et dashboards de pilotage Power BI.
 
 </details>
 
-## Technical toolkit
+---
 
-Technologies I have used in academic projects and internships:
+### 🧰 Technical Competencies
 
-| Area | Tools and technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Data & AI** | Python · SQL · Pandas · NumPy · TensorFlow/Keras · scikit-learn · YOLOv8 · Roboflow |
-| **Backend & APIs** | C# / ASP.NET Core · FastAPI · Java / Jakarta EE · Hibernate · Express.js |
-| **Web & mobile** | Vue.js · React.js · JSF/Facelets · Flutter/Dart |
-| **DevOps & cloud** | Docker · Docker Compose · GitHub Actions · Nginx · AWS EC2 · DigitalOcean · Linux |
-| **Data & observability** | PostgreSQL · Oracle DB · MinIO · Pentaho PDI · Power BI · Vagrant · Prometheus · Grafana |
+| **Data Science & AI** | Python 3 · PyTorch · TensorFlow / Keras · DenseNet121 · YOLOv8 · OpenCV · scikit-learn · Pandas · NumPy · Roboflow |
+| **Backend & APIs** | FastAPI · ASP.NET Core (.NET 8) · Java / Jakarta EE 10 · Hibernate · Express.js · Odoo 17/18 Module Development |
+| **DevOps & Cloud** | Docker · Docker Compose · GitHub Actions CI/CD · Nginx · Linux / Bash · AWS EC2 · DigitalOcean VPS |
+| **Web & Mobile** | React.js · Vue.js · Flutter / Dart · JSF / Facelets · HTML5 / CSS3 |
+| **Data & Telemetry** | PostgreSQL · MySQL · MinIO S3 · Power BI · Pentaho ETL · Prometheus · Grafana · Vagrant |
 
-My Kubernetes experience covers **fundamentals and Minikube**.
+<sub>*Compétences Kubernetes : fondamentaux théoriques et expérimentation Minikube.*</sub>
 
-<details>
-<summary><b>Additional team projects — DevOps and BI contributions</b></summary>
+---
 
-These projects are part of my academic experience; public repository links are not available here yet.
+### 💼 Experience & Leadership Associatif
 
-- **Wasil · team of six:** Docker Compose, Nginx and DigitalOcean deployment; GitHub Actions and Docker Hub automation; backend contributions in C#/.NET and Keycloak integration.
-- **StreamLine · team of four:** automated a five-VM environment with Vagrant, containerized components with Docker, and configured Prometheus/Grafana monitoring.
-- **ImproveU · team of ten:** Docker-based environment, AWS EC2 deployment and GitHub Actions workflows; occasional Vue.js frontend contributions.
-- **Dirhamy:** Scrum coordination and DevOps contributions, including Docker Compose and GitHub Actions workflows.
-- **Business Intelligence · two-person project:** Pentaho ETL, data warehouse loading, SQL analysis and Power BI dashboards.
+| Période | Structure | Rôle & Réalisations |
+| :--- | :--- | :--- |
+| **Juil — Août 2026** | **Laboratoire d'Histologie**<br><sub>Faculté de Médecine et de Pharmacie de Tanger (FMPT)</sub> | **Stagiaire PFA (Projet de Fin d'Année) :**<br>Développement de la solution **HistoClassAI** : entraînement de modèles de transfert d'apprentissage (DenseNet121), API FastAPI à faible latence, et orchestration de 6 conteneurs Docker Compose avec client mobile Flutter. |
+| **Juillet 2025** | **Yazaki Maroc**<br><sub>Usine de production de Tanger</sub> | **Stagiaire Développeur Informatique :**<br>Migration industrielle d'un outil interne Power Apps vers une application web moderne et fluide en **React.js et Express.js** ; modélisation de données et interfaçage d'APIs. |
+| **2025 — 2026** | **Club Informatique**<br><sub>ENSA Tanger</sub> | **Trésorier & Membre du Bureau Exécutif :**<br>Gestion du budget associatif, prospection de sponsoring et coordination logistique pour les **IT Days** (grand événement national accueillant des centaines d'étudiants ingénieurs et professionnels). |
 
-</details>
+---
 
-## Experience & community
-
-- **July–August 2026 · PFA internship:** HistoClassAI, Histology Laboratory, Faculty of Medicine and Pharmacy of Tangier.
-- **2025 · Development internship:** Yazaki Tangier; contributed to Power Apps migration, data modeling and industrial API integration.
-- **Computer Science Club · ENSA Tangier:** treasurer and executive-board member; contributed to IT Days logistics in 2025 and sponsorship coordination in 2026.
-
-## 📊 GitHub Activity & Insights
+### 📊 GitHub Activity & Insights
 
 <div align="center">
 
@@ -106,14 +122,14 @@ These projects are part of my academic experience; public repository links are n
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;icon_color=5EEAD4" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=0369A1&amp;text_color=334155&amp;icon_color=0F766E" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MyElhadri&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=0369A1&amp;text_color=334155&amp;icon_color=0F766E" alt="GitHub activity statistics for MyElhadri" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MyElhadri&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=0369A1&amp;text_color=334155&amp;icon_color=0F766E" alt="Statistiques GitHub de MyElhadri" />
   </picture>
 </a>
 <a href="https://github.com/MyElhadri?tab=repositories">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&amp;layout=compact&amp;card_width=495&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;langs_count=6" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&amp;layout=compact&amp;card_width=495&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=0369A1&amp;text_color=334155&amp;langs_count=6" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&amp;layout=compact&amp;card_width=495&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=0369A1&amp;text_color=334155&amp;langs_count=6" alt="Language breakdown across MyElhadri repositories" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&amp;layout=compact&amp;card_width=495&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=0369A1&amp;text_color=334155&amp;langs_count=6" alt="Langages les plus utilisés" />
   </picture>
 </a>
 
@@ -123,13 +139,9 @@ These projects are part of my academic experience; public repository links are n
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MyElhadri&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;fire=5EEAD4&amp;ring=38BDF8&amp;currStreakLabel=38BDF8" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MyElhadri&amp;theme=default&amp;hide_border=true&amp;background=F6F8FA&amp;fire=0F766E&amp;ring=0369A1&amp;currStreakLabel=0369A1" />
-    <img width="85%" src="https://streak-stats.demolab.com?user=MyElhadri&amp;theme=default&amp;hide_border=true&amp;background=F6F8FA&amp;fire=0F766E&amp;ring=0369A1&amp;currStreakLabel=0369A1" alt="Total contributions, current streak and longest streak for MyElhadri" />
+    <img width="85%" src="https://streak-stats.demolab.com?user=MyElhadri&amp;theme=default&amp;hide_border=true&amp;background=F6F8FA&amp;fire=0F766E&amp;ring=0369A1&amp;currStreakLabel=0369A1" alt="Contributions et Streak de MyElhadri" />
   </picture>
 </a>
-
-<p><sub>Language percentages reflect repository code, not proficiency. These cards are generated by external services and may be cached.</sub></p>
-
-[Explore my repositories](https://github.com/MyElhadri?tab=repositories) · [View my contribution activity](https://github.com/MyElhadri)
 
 </div>
 
@@ -137,7 +149,13 @@ These projects are part of my academic experience; public repository links are n
 
 <div align="center">
 
-**Have a PFE opportunity or a question about one of my projects?**  
-[Let's connect on LinkedIn](https://www.linkedin.com/in/mohamed-yassine-elhadri/) · [Email me](mailto:mohamedyassineelhadri01@gmail.com)
+### 🤝 Échangeons autour d'une opportunité PFE ou d'un projet technique
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yassine-elhadri/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-M%27écrire_un_message-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyassineelhadri01@gmail.com)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=MyElhadri&label=visiteurs&color=0F766E&style=flat-square" alt="Nombre de visiteurs du profil" />
 
 </div>
