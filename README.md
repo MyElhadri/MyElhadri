@@ -1,207 +1,155 @@
 <!--
-  GitHub profile README — Mohamed Yassine EL HADRI (@MyElhadri)
-  Visual inspiration: the profile supplied by the user.
-  Facts: user-provided README + CV files. No certifications or unsupported claims added.
+  GitHub Profile README — Mohamed Yassine EL HADRI (@MyElhadri)
+  Design: Clean · Minimal · Professional
 -->
 
-<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:145E75,100:0891B2&height=260&section=header&text=Mohamed%20Yassine%20EL%20HADRI&fontSize=45&fontAlignY=37&fontColor=FFFFFF&desc=Computer%20Science%20Engineering%20%7C%20ENSA%20Tangier&descSize=19&descAlignY=60&animation=fadeIn"
-    width="100%"
-    alt="Mohamed Yassine EL HADRI — Computer Science Engineering, ENSA Tangier"
-  />
 
-  <a href="https://github.com/MyElhadri">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=830&height=60&lines=Data+%26+Artificial+Intelligence;Backend+%26+Software+Engineering;DevOps+%26+Cloud;Building+models+and+the+systems+behind+them;Looking+for+a+PFE+internship+in+2027"
-      alt="Data and AI · Backend and Software Engineering · DevOps and Cloud"
-      width="95%"
-    />
-  </a>
+<!-- ─── Custom SVG Header ─── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=3000&pause=1200&color=E2E8F0&center=true&vCenter=true&width=700&height=70&lines=Mohamed+Yassine+EL+HADRI" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=3000&pause=1200&color=0F172A&center=true&vCenter=true&width=700&height=70&lines=Mohamed+Yassine+EL+HADRI" />
+  <img alt="Mohamed Yassine EL HADRI" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=3000&pause=1200&color=0F172A&center=true&vCenter=true&width=700&height=70&lines=Mohamed+Yassine+EL+HADRI" />
+</picture>
 
-  <p>
-    <a href="https://www.linkedin.com/in/mohamed-yassine-elhadri/">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mohamedyassineelhadri01@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_in_touch-145E75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/MyElhadri?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-My_projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-    </a>
-  </p>
+<br />
 
-  <p><strong>🎓 Final-year Computer Science Engineering student · Data & AI specialization</strong></p>
-  <p>📍 Tangier, Morocco &nbsp;|&nbsp; 🌍 Open to opportunities in Morocco & France</p>
-  <p>
-    <img src="https://img.shields.io/badge/OPEN_TO_PFE-6_months_from_February_2027-0891B2?style=flat-square&labelColor=0F172A" alt="Seeking a six-month PFE internship from February 2027" />
-  </p>
+**CS Engineering · Data & AI · ENSA Tangier**
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yassine-elhadri/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedyassineelhadri01@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Repos-181717?style=flat&logo=github&logoColor=white)](https://github.com/MyElhadri?tab=repositories)
+
 </div>
+
+<br />
 
 ---
 
-<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
-<h2 align="center">👋 About Me</h2>
+### `$ whoami`
+
+Final-year **Computer Science Engineering** student at **ENSA Tangier**, specializing in **Data & Artificial Intelligence**.
+
+I build things end-to-end — from training a model, to wrapping it in an API, to deploying it with Docker and CI/CD. I care about writing clean code and building systems that actually work in production.
+
+> 🔍 **Looking for a 6-month PFE internship starting February 2027** — open to roles in Data/AI, Backend, or DevOps in Morocco & France.
+
+---
+
+### ⚡ Experience
+
+| When | Where | What |
+|:-----|:------|:-----|
+| **Jul — Aug 2026** | Histology Lab, Faculty of Medicine — Tangier | PFA internship · Built **HistoClassAI** — deep learning classification of histological images, end-to-end from CNN training to a six-service Docker Compose deployment |
+| **Jul 2025** | Yazaki — Tangier | Dev internship · Migrated a Power Apps business app to **React.js / Express.js** |
+| **2025 — 2026** | CS Club, ENSA Tangier | Treasurer & board member · IT Days logistics, sponsorship coordination |
+
+---
+
+### 🧰 Tech Stack
 
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <p>Hi! I'm <strong>Mohamed Yassine</strong>, a final-year Computer Science Engineering student at <strong>ENSA Tangier</strong>, specializing in <strong>Data & Artificial Intelligence</strong>.</p>
-      <p>I enjoy working on the whole journey from an idea to a usable application: experimenting with an AI model, connecting it to a backend, and making the system run with Docker and CI/CD.</p>
-      <p>During my PFA internship with the <strong>Histology Laboratory at the Faculty of Medicine and Pharmacy of Tangier</strong>, I worked in a two-person team on <strong>HistoClassAI</strong>, combining deep learning, web/mobile development and containerized services.</p>
-      <p>At <strong>Yazaki Tangier</strong>, I contributed to migrating a Power Apps business application to a React.js / Express.js web solution.</p>
-      <p>I'm looking for a <strong>six-month PFE internship starting February 2027</strong>, where I can contribute, learn from experienced engineers, and grow in <strong>Data/AI, Backend or DevOps</strong>.</p>
+    <td><b>Languages</b></td>
+    <td>Python · Java · C# · JavaScript · Dart</td>
+  </tr>
+  <tr>
+    <td><b>AI / Data</b></td>
+    <td>TensorFlow / Keras · scikit-learn · Pandas · NumPy · YOLOv8 · Power BI · Pentaho ETL</td>
+  </tr>
+  <tr>
+    <td><b>Backend & Web</b></td>
+    <td>FastAPI · .NET · Express.js · React.js · Vue.js · Flutter · Jakarta EE</td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Infra</b></td>
+    <td>Docker · GitHub Actions · Nginx · PostgreSQL · Linux · AWS · DigitalOcean · Grafana · Prometheus · Vagrant</td>
+  </tr>
+</table>
+
+<sub>Technologies reflect coursework, projects, and internships — not expert-level claims. Kubernetes exposure limited to Minikube fundamentals.</sub>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MyElhadri/histology-App">🔬 HistoClassAI</a></h4>
+      <p><code>Deep Learning</code> <code>FastAPI</code> <code>Docker</code> <code>Flutter</code></p>
+      <p>Histological image classifier (93% acc, 0.93 F1) integrated into a learning platform — web + mobile. Built CNN pipelines, FastAPI inference service, and a six-service Docker Compose stack.</p>
+      <sub>PFA project · 2-person team · Histology Lab, Faculty of Medicine of Tangier</sub>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="100%" />
-      <br />
-      <img src="https://img.shields.io/badge/School-ENSA_Tangier-145E75?style=flat-square" alt="ENSA Tangier" />
-      <br />
-      <img src="https://img.shields.io/badge/Focus-Data_%26_AI-0891B2?style=flat-square" alt="Focus: Data and AI" />
-      <br />
-      <img src="https://img.shields.io/badge/Also-Backend_%26_DevOps-145E75?style=flat-square" alt="Also: Backend and DevOps" />
+    <td width="50%" valign="top">
+      <h4>🚚 Wasil</h4>
+      <p><code>.NET</code> <code>Docker</code> <code>GitHub Actions</code> <code>DigitalOcean</code></p>
+      <p>Delivery platform with backend services, auth, and deployment infra. Owned the DevOps side: Docker Compose, Nginx, VPS deployment, CI/CD pipelines. Also contributed to C#/.NET backend and Keycloak SSO.</p>
+      <sub>Academic project · 6-person team</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MyElhadri/moroccan-coins-detection">🪙 Moroccan Coins Detection</a></h4>
+      <p><code>YOLOv8</code> <code>Roboflow</code> <code>Streamlit</code></p>
+      <p>Computer vision project to detect and sum Moroccan coins. Collected & annotated dataset, trained YOLOv8 (98.6% mAP@50), built a Streamlit demo.</p>
+      <sub>2-person project</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MyElhadri/BricoliRent">🧰 BricoliRent</a></h4>
+      <p><code>Java</code> <code>Jakarta EE</code> <code>JSF</code> <code>Hibernate</code></p>
+      <p>Tool-rental web app with reservations, payments, and penalty management. Layered architecture with clean business-rule separation.</p>
+      <sub>2-person project</sub>
     </td>
   </tr>
 </table>
 
-<!-- ═════════════════════════ PROJECTS ═════════════════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center"><em>A few projects that best show what I've built and what I contributed.</em></p>
+<details>
+<summary><b>Other projects</b></summary>
+<br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/MyElhadri/histology-App">HistoClassAI</a></h3>
-      <p><strong>Deep Learning · Backend · Web & Mobile · Docker</strong></p>
-      <p>Histological image classification integrated into a learning-oriented web and mobile platform, developed in a two-person PFA project.</p>
-      <p><strong>My contribution:</strong> CNN experiments and DenseNet fine-tuning, application components, FastAPI inference service and a six-service Docker Compose environment.</p>
-      <p><strong>Project evaluation:</strong> 93% accuracy and 0.93 macro F1-score across nine categories on validation images. These are not clinical performance claims.</p>
-      <a href="https://github.com/MyElhadri/histology-App"><img src="https://img.shields.io/badge/View_repository-145E75?style=for-the-badge&logo=github&logoColor=white" alt="View HistoClassAI repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚚 Wasil</h3>
-      <p><strong>.NET · Docker · GitHub Actions · DigitalOcean</strong></p>
-      <p>Delivery platform developed by a six-person academic team, with backend services, authentication and deployment infrastructure.</p>
-      <p><strong>My contribution:</strong> primarily DevOps: Docker Compose, Nginx, deployment to a DigitalOcean VPS and CI/CD with GitHub Actions. Also contributed to C#/.NET backend and Keycloak integration.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🪙 <a href="https://github.com/MyElhadri/moroccan-coins-detection">Moroccan Coins Detection</a></h3>
-      <p><strong>YOLOv8 · Roboflow · Python · Streamlit</strong></p>
-      <p>Computer-vision project to detect Moroccan coins and calculate their total value.</p>
-      <p><strong>My contribution:</strong> with a teammate, collected and annotated images, trained and evaluated YOLOv8, and created a Streamlit demo.</p>
-      <p><strong>Project evaluation:</strong> 98.6% mAP@50 on the project's evaluation data.</p>
-      <a href="https://github.com/MyElhadri/moroccan-coins-detection"><img src="https://img.shields.io/badge/View_repository-145E75?style=for-the-badge&logo=github&logoColor=white" alt="View Moroccan Coins Detection repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧰 <a href="https://github.com/MyElhadri/BricoliRent">BricoliRent</a></h3>
-      <p><strong>Java · Jakarta EE · JSF · Hibernate</strong></p>
-      <p>Layered web application for tool-rental workflows, including reservations, payments and penalties.</p>
-      <p><strong>My contribution:</strong> in a two-person team, worked on business rules, front-end/back-end features and integration.</p>
-      <a href="https://github.com/MyElhadri/BricoliRent"><img src="https://img.shields.io/badge/View_repository-145E75?style=for-the-badge&logo=github&logoColor=white" alt="View BricoliRent repository" /></a>
-    </td>
-  </tr>
-</table>
+- **StreamLine** — Infrastructure monitoring with Vagrant, Docker, Prometheus & Grafana
+- **Dirhamy** — Agile project with Scrum, Docker & GitHub Actions CI/CD
+- **BI Pipeline** — End-to-end data warehouse: Pentaho ETL → SQL → Power BI dashboards
 
-<p align="center">
-  <strong>Also worked on:</strong> <strong>StreamLine</strong> (Vagrant, Docker, Prometheus, Grafana),
-  <strong>Dirhamy</strong> (Scrum, Docker, GitHub Actions) and a <strong>Business Intelligence pipeline</strong>
-  (Pentaho ETL, Data Warehouse, SQL, Power BI).
-</p>
-
-<!-- ═══════════════════════ TECHNOLOGIES ═══════════════════════ -->
-<h2 align="center">🛠️ Technologies I've Worked With</h2>
-
-<div align="center">
-  <h3>Languages</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" title="Dart" />
-  </p>
-
-  <h3>Data & Artificial Intelligence</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow / Keras" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" alt="YOLOv8" />
-    <img src="https://img.shields.io/badge/Pentaho_ETL-145E75?style=flat-square" alt="Pentaho ETL" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
-  </p>
-
-  <h3>Backend, Web & Mobile</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" title="ASP.NET Core / .NET" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" title="Vue.js" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" title="Flutter" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React.js" title="React.js (Yazaki internship)" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express.js" title="Express.js (Yazaki internship)" />
-  </p>
-
-  <h3>DevOps, Cloud & Infrastructure</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker / Compose" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" title="Grafana" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS deployment" />
-    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-    <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white" alt="Vagrant" />
-  </p>
-  <p><sub>Kubernetes: fundamentals and Minikube only. The technologies above reflect coursework, projects and internships—not expert-level claims.</sub></p>
-</div>
-
-<!-- ═════════════════════════ EXPERIENCE ════════════════════════ -->
-<h2 align="center">💼 Experience & Community</h2>
-
-- **July–August 2026 — PFA internship, Histology Laboratory (Faculty of Medicine and Pharmacy of Tangier):** collaborated in a two-person team on HistoClassAI, connecting model experimentation with application development and deployment.
-- **July 2025 — Development internship, Yazaki Tangier:** contributed to the migration of a Power Apps business application to a React.js / Express.js web solution.
-- **Computer Science Club (ENSA Tangier):** treasurer and executive-board member; involved in IT Days logistics (2025) and sponsorship coordination (2026).
-
-<!-- ═══════════════════════════ ACTIVITY ══════════════════════════ -->
-<h2 align="center">📈 GitHub Activity</h2>
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MyElhadri&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=FBBF24&area=true&area_color=0891B2&hide_border=true&custom_title=Mohamed%20Yassine%27s%20GitHub%20Activity"
-    alt="GitHub activity graph for MyElhadri"
-    width="96%"
-  />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=6"
-    alt="Languages used in public GitHub repositories (not a skill ranking)"
-    width="44%"
-  />
-</div>
-<p align="center"><sub>Public repository language statistics describe code distribution, not proficiency. Third-party graphs may occasionally be unavailable.</sub></p>
+</details>
 
 ---
 
-<!-- ═════════════════════════ CONTACT ═══════════════════════════ -->
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  <p>Working on Data/AI, Backend or DevOps projects? I'd be glad to exchange ideas.</p>
-  <p><strong>Currently seeking a six-month PFE internship from February 2027.</strong></p>
-  <p>
-    <a href="https://www.linkedin.com/in/mohamed-yassine-elhadri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mohamedyassineelhadri01@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-145E75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+### 📊 GitHub Activity
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:145E75,100:0891B2&height=110&section=footer" width="100%" alt="Decorative footer" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=MyElhadri&label=Profile%20Views&color=0891B2&style=flat-square" alt="GitHub profile view count" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=E2E8F0&text_color=94A3B8&icon_color=38BDF8&ring_color=38BDF8&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=0284C7&ring_color=0284C7&include_all_commits=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=0284C7&ring_color=0284C7&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&layout=compact&hide_border=true&bg_color=00000000&title_color=E2E8F0&text_color=94A3B8&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&langs_count=6" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&langs_count=6" alt="Top languages" />
+  </picture>
+</div>
+
+<sub align="center"><p align="center">Language stats reflect public repo code distribution, not proficiency. Third-party widgets may occasionally be unavailable.</p></sub>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by** 👋
+
+*Currently seeking a 6-month PFE internship starting Feb 2027.*
+*Let's build something meaningful together.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yassine-elhadri/)&nbsp;
+[![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyassineelhadri01@gmail.com)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=MyElhadri&label=visitors&color=94A3B8&style=flat" alt="Profile views" />
+
 </div>
