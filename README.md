@@ -123,15 +123,23 @@ I build systems end-to-end: from designing deep learning models and fine-tuning 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8&icon_color=38BDF8&ring_color=38BDF8&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=0284C7&ring_color=0284C7&include_all_commits=true&count_private=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=0284C7&ring_color=0284C7&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8&icon_color=38BDF8&ring_color=38BDF8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=0284C7&ring_color=0284C7" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyElhadri&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=0284C7&ring_color=0284C7" alt="GitHub stats" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&layout=compact&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8&langs_count=6" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&langs_count=6" />
     <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyElhadri&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&langs_count=6" alt="Top languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MyElhadri&theme=dark&hide_border=true&background=00000000&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MyElhadri&theme=default&hide_border=true&background=00000000&fire=0284C7&ring=0284C7&currStreakLabel=0284C7" />
+    <img width="87%" src="https://streak-stats.demolab.com?user=MyElhadri&theme=dark&hide_border=true&background=00000000&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
   </picture>
 </div>
 
